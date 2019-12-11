@@ -1,1 +1,2 @@
 # RNN-Spam-Detection-LSTM
+Spam - whether in the form of emails, messages, etc. - is a nuisance. Thanks to machine learning algorithms, the problem is now well under control. Here I show with a Recurrent Neural Network (RNN) model how fast and uncomplicated a model can be calculated that can distinguish spam from non-spam. The used dataset is the "SMS Spam Collection", which can be found at Kaggle under "https://www.kaggle.com/ishansoni/sms-spam-collection-dataset".
